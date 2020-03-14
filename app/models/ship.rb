@@ -1,5 +1,5 @@
 class Ship
-endclass Ship
+
   attr_accessor :name, :type, :booty
 
   @@ships = []
